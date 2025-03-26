@@ -46,4 +46,6 @@
   </a>
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ljsh849lh9y9eg3ps16yxhelr&unique={true|1|on|yes})
+
 ###
