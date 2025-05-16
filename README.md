@@ -66,8 +66,7 @@
 * I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2022 - 2024
 
 **Projects**
-
-    * **Project 1: Website of videogames**
+* **Project 1: Website of videogames**
         * Developed a responsive videogame website for project to finish DAW.
 
 **Let's Connect!**
