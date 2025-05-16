@@ -54,8 +54,7 @@
 
 **Professional Experience:**
 
-* **Angel on Watch** - *Developed web application using React and Node.js.*
-    * [Aquí podrías añadir detalles sobre el proyecto, tecnologías específicas, responsabilidades, etc.  Por ejemplo: "Developed key features for a real-time monitoring web application, utilizing React for the frontend and Node.js with Express.js for the backend.  Implemented user authentication, data visualization components, and RESTful APIs."]
+* **Angel on Watch** - *Developed web application using React and Node.js.* | 04/2025 - 06/2025
 * **SPORTMADNESS S.L.** - *Sports Activities Monitor for Children with Diversity* | 07/2021 - 08/2023
 * **Anovo** - *Router Reconditioning Intern* | 03/2022 - 06/2022
 * **Factoria Kreativa** - *WordPress Website Management and Creation Intern* | 03/2024 - 06/2024
