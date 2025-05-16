@@ -36,27 +36,45 @@
 
 ###
 
+**About Me**
+
+<p align="left">
+  I'm a passionate programmer from Málaga, Spain, with a strong drive to create innovative and efficient solutions. My background in web application development and microcomputer systems has equipped me with a versatile skill set, and I'm always eager to expand my knowledge and take on new challenges. I thrive in collaborative environments and believe in the power of teamwork to achieve outstanding results.
+</p>
+
 **Technical Skills:**
 
 * Development: C, Java, Python, C++, C#, PHP, HTML, CSS, and JavaScript.
-* Frameworks: Eclipse, DevC++, React, Nodejs Unity, WordPress (Elementor and WooCommerce), Laravel, and Visual Studio Code.
+* Frontend: React, TypeScript
+* Backend: Node.js
+* Frameworks: Eclipse, DevC++, Unity, WordPress (Elementor and WooCommerce), Laravel, and Visual Studio Code.
 * Cybersecurity: Basic security in Windows/Linux.
 * Operating Systems: Windows and Linux.
 * Tools: Office, Git/GitHub, MySQL, PL/SQL, and VirtualBox.
 
 **Professional Experience:**
 
-* Angel on Watch - Developed web application using React and Node.js. | 04/2025 - 06/2025
-* Factoria Kreativa - WordPress Website Management and Creation Intern | 03/2024 - 06/2024
-* SPORTMADNESS S.L. - Sports Activities Monitor for Children with Diversity | 07/2021 - 08/2023
-* Anovo - Router Reconditioning Intern | 03/2022 - 06/2022
-
+* **Angel on Watch** - *Developed web application using React and Node.js.*
+    * [Aquí podrías añadir detalles sobre el proyecto, tecnologías específicas, responsabilidades, etc.  Por ejemplo: "Developed key features for a real-time monitoring web application, utilizing React for the frontend and Node.js with Express.js for the backend.  Implemented user authentication, data visualization components, and RESTful APIs."]
+* **SPORTMADNESS S.L.** - *Sports Activities Monitor for Children with Diversity* | 07/2021 - 08/2023
+* **Anovo** - *Router Reconditioning Intern* | 03/2022 - 06/2022
+* **Factoria Kreativa** - *WordPress Website Management and Creation Intern* | 03/2024 - 06/2024
 
 **Education:**
 
 * 42 Málaga: Student | 12/2024 - Present
 * I.E.S. Gerald Brenan: Higher Technician in Web Application Development | 2022 - 2024
 * I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2022 - 2024
+
+**Projects**
+    * **Project 1: Website of videogames**
+        * Developed a responsive videogame website for project to finish DAW.
+
+**Let's Connect!**
+
+<p align="left">
+  I'm always open to connecting with other developers, learning new things, and collaborating on interesting projects.  Feel free to reach out to me through the links below.
+</p>
 
 <div align="left">
   <a href="mailto:garcialuquemario7@gmail.com" target="_blank">
