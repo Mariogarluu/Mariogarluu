@@ -45,12 +45,10 @@
 **Technical Skills:**
 
 * Development: C, Java, Python, C++, C#, PHP, HTML, CSS, and JavaScript.
-* Frontend: React, TypeScript
-* Backend: Node.js
-* Frameworks: Eclipse, DevC++, Unity, WordPress (Elementor and WooCommerce), Laravel, and Visual Studio Code.
+* Frameworks: Eclipse, DevC++, Unity, Reactjs, Nodejs WordPress (Elementor and WooCommerce), Laravel, and Visual Studio Code.
 * Cybersecurity: Basic security in Windows/Linux.
 * Operating Systems: Windows and Linux.
-* Tools: Office, Git/GitHub, MySQL, PL/SQL, and VirtualBox.
+* Tools: Office, Git/GitHub, MySQL, PL/SQL, AWS and VirtualBox.
 
 **Professional Experience:**
 
