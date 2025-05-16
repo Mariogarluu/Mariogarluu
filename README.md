@@ -1,9 +1,17 @@
-<h2 align="left">Hi 👋! My name is Mario and I'm a Programmer from Málaga</h2>
+<h2 align="left">Hi 👋! My name is Mario and I'm a Programmer from Málaga, Spain</h2>
+
+<p align="left">Proactive and results-oriented professional with a strong analytical and deductive thinking capacity. I excel at collaborating in a team and fostering a productive environment.</p>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -16,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
@@ -28,8 +36,30 @@
 
 ###
 
+**Technical Skills:**
+
+* Development: C, Java, Python, C++, C#, PHP, HTML, CSS, and JavaScript.
+* Frameworks: Eclipse, DevC++, React, Nodejs Unity, WordPress (Elementor and WooCommerce), Laravel, and Visual Studio Code.
+* Cybersecurity: Basic security in Windows/Linux.
+* Operating Systems: Windows and Linux.
+* Tools: Office, Git/GitHub, MySQL, PL/SQL, and VirtualBox.
+
+**Professional Experience:**
+
+* Angel on Watch - Developed web application using React and Node.js.
+* Factoria Kreativa - WordPress Website Management and Creation Intern | 03/2024 - 06/2024
+* SPORTMADNESS S.L. - Sports Activities Monitor for Children with Diversity | 07/2021 - 08/2023
+* Anovo - Router Reconditioning Intern | 03/2022 - 06/2022
+
+
+**Education:**
+
+* 42 Málaga: Student | 12/2024 - Present
+* I.E.S. Gerald Brenan: Higher Technician in Web Application Development | 2022 - 2024
+* I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2022 - 2024
+
 <div align="left">
-  <a href="malito:garcialuquemario7@gmail.com" target="_blank">
+  <a href="mailto:garcialuquemario7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mario-garcia-luque/" target="_blank">
@@ -45,5 +75,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
