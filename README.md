@@ -54,9 +54,10 @@
 **Professional Experience:**
 
 * **Angel on Watch** - *Developed web application using React and Node.js.* | 04/2025 - 06/2025
+* **Factoria Kreativa** - *WordPress Website Management and Creation Intern* | 03/2024 - 06/2024
 * **SPORTMADNESS S.L.** - *Sports Activities Monitor for Children with Diversity* | 07/2021 - 08/2023
 * **Anovo** - *Router Reconditioning Intern* | 03/2022 - 06/2022
-* **Factoria Kreativa** - *WordPress Website Management and Creation Intern* | 03/2024 - 06/2024
+
 
 **Education:**
 
