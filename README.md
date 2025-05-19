@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -111,4 +112,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mariogarluu.Mariogarluu&"  />
 </div>
 
-###
+
+
