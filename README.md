@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -53,7 +52,7 @@
 
 **Professional Experience:**
 
-* **Angel on Watch** - *Developed web application using React and Node.js.* | 04/2025 - 06/2025
+* **Angel on Watch** - *Developed web application using React and Node.js.* | 04/2025 - **Present**
 * **Factoria Kreativa** - *WordPress Website Management and Creation Intern* | 03/2024 - 06/2024
 * **SPORTMADNESS S.L.** - *Sports Activities Monitor for Children with Diversity* | 07/2021 - 08/2023
 * **Anovo** - *Router Reconditioning Intern* | 03/2022 - 06/2022
