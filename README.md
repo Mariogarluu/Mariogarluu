@@ -53,7 +53,7 @@
 
 **Professional Experience:**
 
-* **Angel on Watch** - *Developed web application using React and Node.js.* | 04/2025 - **Present**
+* **Angel on Watch** - *Developed web application using React and Node.js.* | 04/2025 - 09/2025
 * **Factoria Kreativa** - *WordPress Website Management and Creation Intern* | 03/2024 - 06/2024
 * **SPORTMADNESS S.L.** - *Sports Activities Monitor for Children with Diversity* | 07/2021 - 08/2023
 * **Anovo** - *Router Reconditioning Intern* | 03/2022 - 06/2022
@@ -61,7 +61,7 @@
 
 **Education:**
 
-* 42 Málaga: Student | 12/2024 - Present
+* 42 Málaga: Student | 12/2024 - 08/2025
 * I.E.S. Gerald Brenan: Higher Technician in Web Application Development | 2022 - 2024
 * I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2022 - 2024
 
