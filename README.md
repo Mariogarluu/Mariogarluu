@@ -66,8 +66,8 @@
 * I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2022 - 2024
 
 **Projects**
-* **Project 1: Website of videogames**
-        * Developed a responsive videogame website for project to finish DAW.
+* **Project 1: Music Bot for Discord**
+        * Developed a command bot with buttons for text channels to listen music connected to youtube <a href = "https://github.com/Mariogarluu/Bot-musica">.
 
 **Let's Connect!**
 
