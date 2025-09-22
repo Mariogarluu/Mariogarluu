@@ -61,7 +61,7 @@
 
 **Education:**
 
-* 42 Málaga: Student | 12/2024 - 08/2025
+* 42 Málaga: Student | 12/2024 - 07/2025
 * I.E.S. Gerald Brenan: Higher Technician in Web Application Development | 2022 - 2024
 * I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2022 - 2024
 
