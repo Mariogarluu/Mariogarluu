@@ -67,7 +67,7 @@
 
 **Projects**
 * **Project 1: Music Bot for Discord**
-        * Developed a command bot with buttons for text channels to listen music connected to youtube <a href = "https://github.com/Mariogarluu/Bot-musica">here</a>.
+        * Developed a command bot with buttons for text channels to listen music connected to youtube <a href = "https://github.com/Mariogarluu/Bot-musica">here</a> with npm, js and apis.
 
 **Let's Connect!**
 
