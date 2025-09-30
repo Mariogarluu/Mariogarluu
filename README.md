@@ -40,7 +40,7 @@
 **About Me**
 
 <p align="left">
-  I'm a passionate programmer from Málaga, Spain, with a strong drive to create innovative and efficient solutions. My background in web application development and microcomputer systems has equipped me with a versatile skill set, and I'm always eager to expand my knowledge and take on new challenges. I thrive in collaborative environments and believe in the power of teamwork to achieve outstanding results.
+  I'm a passionate developer from Málaga, Spain, with a strong drive to create innovative and efficient solutions. My background in web application development and microcomputer systems has equipped me with a versatile skill set, and I'm always eager to expand my knowledge and take on new challenges. I thrive in collaborative environments and believe in the power of teamwork to achieve outstanding results.
 </p>
 
 **Technical Skills:**
