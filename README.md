@@ -1,10 +1,12 @@
-<h2 align="left">Hi 👋! My name is Mario and I'm a Programmer from Málaga, Spain</h2>
+<h2 align="center">Hi 👋! My name is Mario and I'm a Programmer from Málaga, Spain</h2>
 
-<p align="left">Proactive and results-oriented professional with a strong analytical and deductive thinking capacity. I excel at collaborating in a team and fostering a productive environment.</p>
+<p align="center">Proactive and results-oriented professional with a strong analytical and deductive thinking capacity. I excel at collaborating in a team and fostering a productive environment.</p>
 
 ###
 
-<div align="left">
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="typescript logo" />
@@ -37,13 +39,13 @@
 
 ###
 
-**About Me**
+<h3 align="center">📖 About Me</h3>
 
 <p align="left">
   I'm a passionate developer from Málaga, Spain, with a strong drive to create innovative and efficient solutions. My background in web application development and microcomputer systems has equipped me with a versatile skill set, and I'm always eager to expand my knowledge and take on new challenges. I thrive in collaborative environments and believe in the power of teamwork to achieve outstanding results.
 </p>
 
-**Technical Skills:**
+<h3 align="center">💻 Technical Skills</h3>
 
 * Development: C, Java, Python, C++, C#, PHP, HTML, CSS, and JavaScript.
 * Frameworks: Eclipse, DevC++, Unity, Reactjs, Nodejs WordPress (Elementor and WooCommerce), Laravel, and Visual Studio Code.
@@ -51,7 +53,7 @@
 * Operating Systems: Windows and Linux.
 * Tools: Office, Git/GitHub, MySQL, PL/SQL, AWS and VirtualBox.
 
-**Professional Experience:**
+<h3 align="center">💼 Professional Experience</h3>
 
 * **Angel on Watch** - *Developed web application using React and Node.js.* | 04/2025 - 09/2025
 * **Factoria Kreativa** - *WordPress Website Management and Creation Intern* | 03/2024 - 06/2024
@@ -59,23 +61,23 @@
 * **Anovo** - *Router Reconditioning Intern* | 03/2022 - 06/2022
 
 
-**Education:**
+<h3 align="center">🎓 Education</h3>
 
 * 42 Málaga: Student | 12/2024 - 07/2025
 * I.E.S. Gerald Brenan: Higher Technician in Web Application Development | 2022 - 2024
 * I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2022 - 2024
 
-**Projects**
+<h3 align="center">🚀 Projects</h3>
 * **Project 1: Music Bot for Discord**
         * Developed a command bot with buttons for text channels to listen music connected to youtube <a href = "https://github.com/Mariogarluu/Bot-musica">here</a> with npm, js and apis.
 
-**Let's Connect!**
+<h3 align="center">🤝 Let's Connect!</h3>
 
-<p align="left">
+<p align="center">
   I'm always open to connecting with other developers, learning new things, and collaborating on interesting projects.  Feel free to reach out to me through the links below.
 </p>
 
-<div align="left">
+<div align="center">
   <a href="mailto:garcialuquemario7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -101,6 +103,8 @@
 <br />
 
 ###
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mariogarluu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
