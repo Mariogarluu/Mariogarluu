@@ -102,8 +102,6 @@
 </picture>
 <br />
 
-###
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
@@ -113,7 +111,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariogarluu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Mariogarluu's Top Languages" />
 </div>
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mariogarluu.Mariogarluu&"  />
