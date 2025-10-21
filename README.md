@@ -64,8 +64,9 @@
 <h3 align="center">🎓 Education</h3>
 
 * 42 Málaga: Student | 12/2024 - 07/2025
+* CPFP Alan Turing: Higher Technician in Multiplatform Application Development | 2024 - 2026
 * I.E.S. Gerald Brenan: Higher Technician in Web Application Development | 2022 - 2024
-* I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2022 - 2024
+* I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2020 - 2022
 
 <h3 align="center">🚀 Projects</h3>
 * **Project 1: Music Bot for Discord**
