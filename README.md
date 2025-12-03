@@ -69,6 +69,8 @@
 * I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2020 - 2022
 
 <h3 align="center">🚀 Projects</h3>
+* **Project 2: Meta-Force a inteligent gym**
+        * 
 * **Project 1: Music Bot for Discord**
         * Developed a command bot with buttons for text channels to listen music connected to youtube <a href = "https://github.com/Mariogarluu/Bot-musica">here</a> with npm, js and apis.
 
