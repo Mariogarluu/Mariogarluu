@@ -69,6 +69,7 @@
 * I.E.S. Gerald Brenan: Technician in Microcomputer Systems and Networks | 2020 - 2022
 
 <h3 align="center">🚀 Projects</h3>
+
 * **Project 2: Meta-Force a inteligent gym**
         * An intermodular project for the DAM higher degree program built with Angular, Express, and PostgreSQL focused on gym management. Features include administrative tools for gym operations and a client-facing section with AI-powered workout and diet plan generation. Developed in collaboration with @sbuegonz00 and @sgarrui1201. Check it out <a href = "https://github.com/Mariogarluu/Meta-Force-App">here</a>.
         
