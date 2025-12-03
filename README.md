@@ -70,7 +70,7 @@
 
 <h3 align="center">🚀 Projects</h3>
 * **Project 2: Meta-Force a inteligent gym**
-        * 
+        * An intermodular project built with Angular, Express, and PostgreSQL focused on gym management. Features include administrative tools for gym operations and a client-facing section with AI-powered workout and diet plan generation.
 * **Project 1: Music Bot for Discord**
         * Developed a command bot with buttons for text channels to listen music connected to youtube <a href = "https://github.com/Mariogarluu/Bot-musica">here</a> with npm, js and apis.
 
